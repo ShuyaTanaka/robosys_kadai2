@@ -28,4 +28,4 @@ ROS
 https://youtu.be/gJnDkj2rk_Q  
 
 # ライセンス  
-> [
+> [BSD 3-Clause License]()
