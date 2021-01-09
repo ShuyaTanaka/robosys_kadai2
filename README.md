@@ -5,10 +5,19 @@
 Ubuntu 20.04  
 ROS  
 
-# 実験　~使用方法~  
+# 実験　-使用方法-   
 |       |      実行手順      |  
 |:-----:|:-----------------:|  
 | 端末1 |  `roscore`を起動     |  
 | 端末2 | `cd ~/catkin_ws/src/mypkg/scripts`でscriptsのディレクトリに入った後、`rosrun mypkg count.py`でノードを立ち上げておく|  
 | 端末3 | `cd ~/catkin_ws/src/mypkg/scripts`でscriptsのディレクトリに入った後、`rosrun mypkg twice.py`でノードを立ち上げておく|  
 | 端末4 | `rostopic echo /twice`で実行しデータが得られる。|  
+
+# 実験内容詳細  
+
+
+# デモ動画  
+
+
+# ライセンス  
+> [
