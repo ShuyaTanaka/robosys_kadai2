@@ -28,4 +28,4 @@ ROS
 https://youtu.be/gJnDkj2rk_Q  
 
 # ライセンス  
-> [BSD 3-Clause License]()
+> [BSD 3-Clause License](https://github.com/ShuyaTanaka/robosys_kadai2/blob/main/LICENSE)
